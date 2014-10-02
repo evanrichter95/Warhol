@@ -1,0 +1,8 @@
+<file_created time="Thu Oct 02 09:41:00 EDT 2014">
+<command_run time="Thu Oct 02 09:41:12 EDT 2014">file=pickAFile()></command_run>
+<command_run time="Thu Oct 02 09:41:27 EDT 2014">mypict=makePicture(file)></command_run>
+<command_run time="Thu Oct 02 09:41:54 EDT 2014">color=getColor(mypict)></command_run>
+<command_run time="Thu Oct 02 09:42:26 EDT 2014">pixel=getPixel(myPict,0,0)></command_run>
+<menu_button time="Thu Oct 02 09:43:47 EDT 2014">Save Program As...</menu_button>
+<file_saved time="Thu Oct 02 09:44:11 EDT 2014">/Users/evanrichter/Desktop/CS106/Warhol/makeWpic.py</file_saved>
+</file_created>
